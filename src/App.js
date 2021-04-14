@@ -11,6 +11,11 @@ export default function App() {
         </header>
 
         <main>
+          <div className="title text-center mb-5">
+            <h1>Dictionary</h1>
+            <h2>What word do you want to look up?</h2>
+          </div>
+
           <Dictionary />
         </main>
         <footer className="App-footer mt-5">
