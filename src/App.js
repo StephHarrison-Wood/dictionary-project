@@ -21,10 +21,7 @@ export default function App() {
         <footer className="App-footer mt-5">
           <small>
             Coded by{" "}
-            <a
-              href="https://github.com/StephHarrison-Wood/dictionary-project"
-              target="_blank"
-            >
+            <a href="https://github.com/StephHarrison-Wood/dictionary-project">
               Stephanie Harrison-Wood
             </a>
           </small>
