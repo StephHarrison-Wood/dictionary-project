@@ -16,7 +16,7 @@ export default function App() {
             <h2>What word do you want to look up?</h2>
           </div>
 
-          <Dictionary />
+          <Dictionary defaultKeyword="sunset" />
         </main>
         <footer className="App-footer mt-5">
           <small>
