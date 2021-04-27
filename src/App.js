@@ -13,7 +13,6 @@ export default function App() {
         <main>
           <div className="title text-center mb-5">
             <h1>Dictionary</h1>
-            <h2>What word do you want to look up?</h2>
           </div>
 
           <Dictionary defaultKeyword="sunset" />
